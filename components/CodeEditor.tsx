@@ -15,7 +15,6 @@ import "ace-builds/src-noconflict/mode-json";
 import "ace-builds/src-noconflict/mode-html";
 import "ace-builds/src-noconflict/mode-golang";
 import "ace-builds/src-noconflict/mode-csharp";
-import "ace-builds/src-noconflict/mode-golang";
 import "ace-builds/src-noconflict/mode-css";
 
 import "ace-builds/src-noconflict/theme-monokai";
